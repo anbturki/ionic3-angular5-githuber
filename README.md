@@ -1,1 +1,1 @@
-##A simple IONIC 3 App - to get a user's repos by its username
+## A simple IONIC 3 App - to get a user's repos by his username
